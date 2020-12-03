@@ -34,9 +34,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="https://user-images.githubusercontent.com/74638413/101004581-cc0b8c80-358a-11eb-9153-4a67486a2d92.png" alt="Javascript Beatboxer">
+<img src="https://user-images.githubusercontent.com/74638413/101012696-6a98ed00-358d-11eb-856d-50ab2e6ca60a.png" alt="Javascript Guess The Number">
 
-The 'Guess The Number' Game Is Created to check your guess correctness.
+The 'Guess The Number' Game Is Created to check your guess ability.
 
 ### Built With
 
